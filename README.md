@@ -1,5 +1,5 @@
 # data-type-modelling-demo
-Example implementation of Value Class, Tagged Type and Refined Types patterns for a loan date object
+Example implementation of Value Class, Tagged Type and Refined Types patterns for a loan data object
 
 ## Implementations of Loan Class:
 - Standard Case Class
